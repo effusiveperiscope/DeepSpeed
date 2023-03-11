@@ -5,6 +5,7 @@ Copyright 2022 The Microsoft DeepSpeed Team
 #pragma once
 
 #include <cuda.h>
+#include <cstdint>
 #include "ds_kernel_utils.h"
 
 /////////////////////////////// Memory Access Utils ///////////////////////////////
